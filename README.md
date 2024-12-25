@@ -9,15 +9,15 @@ Berikut adalah langkah-langkah untuk menjalankan proyek Fullstack Portal Berita 
 
 1. Persiapan Software
 
-Unduh dan instal software berikut:
+Unduh dan instal software berikut :
 
-Visual Studio Code: Digunakan sebagai editor kode.
+Visual Studio Code : Digunakan sebagai editor kode.
 
 XAMPP: Menyediakan server lokal yang mencakup Apache dan MySQL.
 
-Browser: Contoh: Chrome, Firefox, atau browser lainnya.
+Browser : Contoh: Chrome, Firefox, atau browser lainnya.
 
-Download semua file proyek dan simpan ke dalam folder:
+Download semua file proyek dan simpan ke dalam folder :
 
 C:\xampp\htdocs\fullstack_portalBerita
 
@@ -29,13 +29,13 @@ Klik tombol "Start" pada bagian Apache dan MySQL untuk menjalankan server.
 
 3. Membuat Database
 
-Buka Command Prompt (CMD), lalu masukkan perintah berikut satu per satu:
+Buka Command Prompt (CMD), lalu masukkan perintah berikut satu per satu :
 
 c:
 cd \xampp\mysql\bin
 mysql -u root
 
-Setelah masuk ke MySQL shell, buat database dan tabel dengan perintah berikut:
+Setelah masuk ke MySQL shell, buat database dan tabel dengan perintah berikut :
 
 CREATE DATABASE use_db;
 
@@ -82,11 +82,13 @@ if ($conn->connect_error) {
 ?>
 
 Cek Error:
-Jika terjadi error, pastikan:
+Jika terjadi error, pastikan :
 
 Database dan tabel telah dibuat dengan benar.
 
 Semua file proyek telah diunggah ke folder htdocs di XAMPP.
 
 Semoga berhasil! Jika ada pertanyaan atau kendala, jangan ragu untuk bertanya. 😊
+Follows Instagram : yogszzqwerty_
+
 
