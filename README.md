@@ -1,2 +1,6 @@
-# Website-Portal-Berita-PT.-Winnicode-Garuda-Teknologi-fullstack-Developer
-website Portal berita di PT. Winnicode Garuda Teknologi. Bagian fullstack Developer, magang msib bact 7 selama 4 bulan.
+# tamtv
+Website Portal Berita
+
+
+**LINK DEMO**
+- https://nitinegoro.github.io/tamtv/index.html
